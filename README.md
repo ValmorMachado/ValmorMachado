@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 I am Valmor Machado. Welcome to my Github.
 
@@ -7,6 +7,8 @@ I am Valmor Machado. Welcome to my Github.
 🌱 I’m currently learning .Net, Python, HTML, CSS, JS and them...
 
 📫 How to reach me: https://www.linkedin.com/in/valmor-machado/
+
+I love to program
 
 <!--
 **ValmorMachado/ValmorMachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
