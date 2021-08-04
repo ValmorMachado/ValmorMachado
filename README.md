@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Valmor Machado. Welcome to my Github.
+- I am Valmor Machado. Welcome to my Github.
 
 🔭 I am currently working with natural gas processing. But...
 
