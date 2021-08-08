@@ -11,6 +11,7 @@
 ### I love to program
 
 ![Valmor Machado GitHub stats](https://github-readme-stats.vercel.app/api?username=ValmorMachado&show_icons=true&theme=blue-green)
+![Valmor Machado GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ValmorMachado&theme=blue-green)
 
 <!--
 **ValmorMachado/ValmorMachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
